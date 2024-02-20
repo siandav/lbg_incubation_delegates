@@ -1,6 +1,3 @@
-**You can use this 3rd party tool to download the whole folder from github as a zip file**
-https://download-directory.github.io/
-
 ### Useful links for Tableau : 
 -  sign up to tableau public https://public.tableau.com/app/discover 
 -  tableau public viz of a day - searchable repository of spotlighted vizzes https://public.tableau.com/app/discover/viz-of-the-day
