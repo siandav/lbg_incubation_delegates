@@ -5,7 +5,7 @@ https://download-directory.github.io/
 
 [how to fork a repo on github](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo])
 
-### Contents of this repository
+### Contents of this folder
 
-This github repository contains materials for each sprint of the incubation program, as the 4 folders named per sprint, and materials you will need for all sprints 
+This github folder contains materials for sprint preparation work on your incubation program 
 
