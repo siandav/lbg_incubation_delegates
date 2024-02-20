@@ -7,4 +7,5 @@
 ### Useful links for Sentiment Analysis: 
 - 
 
-
+### Statistical articles 
+- https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/ 
