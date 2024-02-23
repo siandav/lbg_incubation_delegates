@@ -7,8 +7,8 @@ https://download-directory.github.io/
 
 ### Contents of this folder
 
-This github folder contains your welcome pack, schedule and other materials for the week of sprint preparation work ahead of your incubation program 
-You will also have access to a training path on Cloud Academy which takes you through courses/ content around Agile/ Scrum, Segmentation and Consumer Targeting, and some optional Python refresher materials 
+This github folder contains your welcome pack, schedule and other materials for the week of sprint preparation work ahead of your incubation program. 
+You will also have access to a training path on Cloud Academy which takes you through courses/ content around Agile + Scrum methodologies, Segmentation and Consumer Targeting, and some optional Python refresher and stretch materials. 
 
 If you have trouble accessing Cloud Academy content, using the skills portfolio excel or need help accessing any other resources during your incubation preparation week,
  please contact ***Lucy Wilkinson*** on Teams or email at lucy.wilkinson@qa.com
@@ -16,4 +16,4 @@ If you have trouble accessing Cloud Academy content, using the skills portfolio 
 
 ### what to do if youve done everything else?
 
-IF you find yourelf with time to spare, why not spend some time on [Codewars](https://www.codewars.com/), trying out your SQL and Python coding skills ? 
+If you find yourelf with time to spare, why not spend some time on [Codewars](https://www.codewars.com/), trying out your SQL and Python coding skills ? 
