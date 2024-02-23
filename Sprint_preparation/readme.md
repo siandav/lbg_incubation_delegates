@@ -9,7 +9,11 @@ https://download-directory.github.io/
 ### Contents of this folder
 
 This github folder contains your welcome pack, schedule and some guidance on generative AI. 
-The slide deck (naive bayes) and amazon review files are the Sprint 2 preparation materials that Yobi has put together for you 
+
+
+The slide deck (naive bayes) and amazon review files are the Sprint 2 preparation materials that Yobi has put together for you. 
+
+
 You will also have access to a training path on Cloud Academy which takes you through courses/ content around Agile + Scrum methodologies, Segmentation and Consumer Targeting, and some optional Python refresher and stretch materials. 
 
 If you have trouble accessing Cloud Academy content, using the skills portfolio excel file or need help with any other resources during your incubation preparation week,
