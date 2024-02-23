@@ -15,6 +15,8 @@ You will also have access to a training path on Cloud Academy which takes you th
 If you have trouble accessing Cloud Academy content, using the skills portfolio excel file or need help with any other resources during your incubation preparation week,
  please contact ***Lucy Wilkinson*** on Teams or email at lucy.wilkinson@qa.com
  
+ For questions on the Sprint 2 preparation materials - email Yobi at yobi.livingstone@qa.com or set up a teams call with him. 
+ 
  ### Useful links suggested by Sian 
 
 - cloud academy is accessed via https://app.qa.com/dashboard/ 
