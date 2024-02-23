@@ -19,13 +19,14 @@ You will also have access to a training path on Cloud Academy which takes you th
 If you have trouble accessing Cloud Academy content, using the skills portfolio excel file or need help with any other resources during your incubation preparation week,
  please contact ***Lucy Wilkinson*** on Teams or email at lucy.wilkinson@qa.com
  
- For questions on the Sprint 2 preparation materials - email Yobi at yobi.livingstone@qa.com or set up a teams call with him. 
+ For questions on the Sprint 2 preparation materials - email ***Yobi*** at yobi.livingstone@qa.com or set up a teams call with him. 
  
  ### Useful links suggested by Sian 
 
 - cloud academy is accessed via https://app.qa.com/dashboard/ 
 - one option for running jupyter notebooks on a browser instead of a local python installation is google colab - free with CPU limits https://colab.google/
 - accessing source data in colab requires mounting your drive to access the file https://saturncloud.io/blog/how-to-read-a-file-from-drive-in-google-colab/ 
+- another option for running jupyter notebooks on a browser is jupyter lite https://jupyterlite.github.io/demo/lab/index.html which has a drag drop data upload interface
 - a basic explainer for REGEX https://www.regular-expressions.info/ 
 - an approachable, interactive regex compiler to help you get to grips with regex patterns https://regexr.com/ 
 - a more advanced regex compiler, once you get the hang of it https://regex101.com/ 
