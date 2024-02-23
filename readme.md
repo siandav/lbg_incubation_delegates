@@ -7,5 +7,7 @@ https://download-directory.github.io/
 
 ### Contents of this repository
 
-This github repository contains materials for each sprint of the incubation program, as the 4 folders named per sprint, and materials you will need for all sprints 
+This github repository contains materials for each sprint of the incubation program, as the 4 folders named per sprint, and materials you will need for all sprints plus the sprint preparation week materials 
+
+Keep in mind that you will be maintaining a single copy of your skills portfolio for the next 10 weeks- so take the excel file and upload it to github or another cloud storage so you know where it is, and its safe from accidental deletion! 
 
