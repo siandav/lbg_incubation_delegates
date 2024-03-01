@@ -1,3 +1,11 @@
+### Week 1 
+- During this week you will be building a [dashboard]()Sprint 1 - direct marketing campaign -dashboard.pdf) for the marketing team based on this [data](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_1_custreqment_segmentation/Direct_Marketing_Campaign.csv) and [column definitions](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_1_custreqment_segmentation/Direct_Marketing_Columns.xlsx). You will also have to put together a user guide so we have provided an [example](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_1_custreqment_segmentation/Sprint%201%20-%20dashboard%20user%20guide%20example.pdf).
+- Theres a nice [visualisation poster]() to inspire your design
+- On wednesday at 3pm you will be put in small groups for a [peer review]() of what you have developed so that by the end of the week you will have a chance to iterate and improve your dashboard. 
+- If you get as far as customer personas we have provided a [template]() for you to use. 
+
+
+
 ### Useful links for Tableau : 
 -  sign up to tableau public https://public.tableau.com/app/discover 
 -  tableau public viz of a day - searchable repository of spotlighted vizzes https://public.tableau.com/app/discover/viz-of-the-day
