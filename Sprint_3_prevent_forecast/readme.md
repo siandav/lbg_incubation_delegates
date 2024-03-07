@@ -15,14 +15,23 @@ Everything you work on during this sprint has to be documented because colleague
 You will find the Quay_Banking database you need for this sprint on your LOD machine, on the SQL Server (2022 Express) instance. 
 You can access the database through SQL Server Management Studio (SSMS) by launching SSMS19.1 from the desktop and connect to the server using the default credentials
 
-### Useful links for time series forecasting : 
+### Useful links for SQL aggregate queries:
+
+
+### Useful links for time series forecasting: 
 -  
 -  
 
 ### Useful links for GCP deployment, storage and AI: 
-- 
-- 
-
+- If your source data is not pre aggregated, you should first upload the file(s) to a [storage bucket](https://cloud.google.com/storage/docs/uploading-objects), then connect to that [bucket from Big Query](https://cloud.google.com/bigquery?hl=en#transfer-data-into-bigquery) as the data source, creating an [aggregated table](https://cloud.google.com/bigquery/docs/tables)  in Big Query
+- An [Arima Plus model](https://cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-create-time-series) can be created directly in Big Query, with or without Auto Arima functionality (which does some of the parameter tuning for you)
+- Evaluation, Forecasting of your model in Big Query will be done using functions and you should search the documentation by key words like 'arima', 'forecast'
+- [Inference](https://cloud.google.com/bigquery/docs/inference-overview) can be made using Big Query ML
+- Importing an [existing Python model to GCP Vertex AI](https://cloud.google.com/vertex-ai/docs/model-registry/import-model) in a jupyter notebook file can be achieved using the GUI or Cloud Shell, adding it to the GCP model registry
+- Once your custom model is up on Vertex AI, you need to deploy the [model](https://cloud.google.com/vertex-ai/docs/predictions/overview#model_deployment) and follow the appropriate pipeline for this type of model to [get your predictions](https://cloud.google.com/vertex-ai/docs/tabular-data/forecasting/get-predictions)
+- Heres a [time series / Vertex AI lab](https://codelabs.developers.google.com/codelabs/time-series-forecasting-with-cloud-ai-platform#0) you may find useful
+- AutoML on Vertex AI for time series is shown [here](cloud.google.com/vertex-ai/docs/tabular-data/forecasting/overview)
+- Theres a short [video tutorial](youtube.com/watch?v=5-qjRpjdE5s) showing something similar on youtube
 
 ### Internal note : Mop up 
 
