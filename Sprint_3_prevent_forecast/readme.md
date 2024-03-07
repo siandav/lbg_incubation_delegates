@@ -4,9 +4,10 @@ During this sprint you are diving into transaction data. You are working at the 
 In order to add value to the team you are bringing modelling, visualisation, observation, and critical thinking skills together to answer speculative questions. 
 Everything you work on during this sprint has to be documented because colleagues in other teams will use it when the Bank returns to these priorities another time. For this reason you should make sure your notebooks/ workbooks are well organised and clearly annotated, your assembled written reports are clean and concise. 
 
-- you will start the sprint by taking a closer look at proactive fraud monitoring of bank transactions 
-- then you will jump into time series analysis with the bank transactions
-- before the end of the sprint it is hoped you can deploy data and models to the google cloud platform
+- you will start the sprint by taking a closer look at proactive fraud monitoring of bank transactions
+- Wednesday of week 1 is planned as a mop-up day; a chance to work again on anything from an earlier sprint.  
+- Next, you will jump into [time series analysis and forecasting](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_3_prevent_forecast/Sprint%203%20-%20Time%20Series%20Analysis%20%26%20Forecasting%20Transactions.pdf) with the bank transactions, extracting your data set using SQL and using the data and time series techniques to answer questions about the transaction trends
+- before the end of the sprint it is hoped you can [deploy your data set and models to the google cloud platform](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_3_prevent_forecast/Sprint%203%20-%20Forecast%20and%20Fraud%20deploy%20to%20GCP.pdf) 
 
 ## Data Source for this sprint 
 
