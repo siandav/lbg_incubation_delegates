@@ -7,7 +7,8 @@ Everything you work on during this sprint has to be documented because colleague
 - you will start the sprint by taking a closer look at proactive fraud monitoring of bank transactions
 - Wednesday of week 1 is planned as a mop-up day; a chance to work again on anything from an earlier sprint.  
 - Next, you will jump into [time series analysis and forecasting](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_3_prevent_forecast/Sprint%203%20-%20Time%20Series%20Analysis%20%26%20Forecasting%20Transactions.pdf) with the bank transactions, extracting your data set using SQL and using the data and time series techniques to answer questions about the transaction trends
-- before the end of the sprint it is hoped you can [deploy your data set and models to the google cloud platform](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_3_prevent_forecast/Sprint%203%20-%20Forecast%20and%20Fraud%20deploy%20to%20GCP.pdf) 
+- before the end of the sprint it is hoped you can [deploy your data set and models to the google cloud platform](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_3_prevent_forecast/Sprint%203%20-%20Forecast%20and%20Fraud%20deploy%20to%20GCP.pdf)
+- At the end of the sprint (time TBC) Dylan and Yobi will host a retro and sprint post mortem with you 
 
 ## Data Source for this sprint 
 
