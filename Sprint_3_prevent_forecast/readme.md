@@ -16,12 +16,12 @@ You will find the Quay_Banking database you need for this sprint on your LOD mac
 You can access the database through SQL Server Management Studio (SSMS) by launching SSMS19.1 from the desktop and connect to the server using the default credentials
 
 ### Useful links for preparing the data:
-- Working with transactional data means theres too many rows and you have to aggregate up - in SQL the clause we use is [GROUP BY](https://www.w3schools.com/mysql/mysql_groupby.asp) and in Python its [groupby](https://medium.com/nerd-for-tech/grouping-and-sampling-time-series-data-2bafe98302ab)
+- Working with transaction data means theres too many rows and you have to aggregate up - in SQL the clause we use is [GROUP BY](https://www.w3schools.com/mysql/mysql_groupby.asp) and in Python its [groupby](https://medium.com/nerd-for-tech/grouping-and-sampling-time-series-data-2bafe98302ab)
 - Managing and manipulating dates can be tricky - in SQL we use [date functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp), in Pandas its the [date time library and to_datetime functions](https://pandas.pydata.org/docs/user_guide/timeseries.html) 
 
 
 ### Useful links for time series forecasting: 
-- Heres a cheat sheet for time series](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
+- [Heres a cheat sheet for time series](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
 -  A superb [kaggle guide to time series](https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python)
 -  If using ARIMA, the [stats model library documentation](https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima.model.ARIMA.html#statsmodels.tsa.arima.model.ARIMA) is useful to have on hand and heres a complementary [gentle intro to Arima](https://www.kdnuggets.com/2023/08/times-series-analysis-arima-models-python.html)
 -  If using Prophet, the [documentation](https://prophet.readthedocs.io/en/latest/) is useful to have on hand and heres a [quickstart guide direct from Meta](https://facebook.github.io/prophet/docs/quick_start.html#python-api) 
