@@ -29,7 +29,7 @@ You can access the database through SQL Server Management Studio (SSMS) by launc
 ### Useful links for GCP Big Query ML 
 - If your source data is not pre aggregated, you should first upload the file(s) to a [storage bucket](https://cloud.google.com/storage/docs/uploading-objects), then connect to that [bucket from Big Query](https://cloud.google.com/bigquery?hl=en#transfer-data-into-bigquery) as the data source, creating an [aggregated table](https://cloud.google.com/bigquery/docs/tables)  in Big Query
 - An [Arima Plus model](https://cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-create-time-series) can be created directly in Big Query, with or without Auto Arima functionality (which does some of the parameter tuning for you)
-- Evaluation, Forecasting of your model in Big Query ML will be done using pre defined functions and you should search the documentation by key words like 'arima', 'forecast'
+- Evaluation, Forecasting of your model in Big Query ML will be done using pre defined functions and you should search the [documentation](https://cloud.google.com/bigquery/docs/reference/standard-sql/) for key words like 'arima', 'forecast'
 - [Inference](https://cloud.google.com/bigquery/docs/inference-overview) can be made using Big Query ML
 
 ### Useful links for GCP Vertex AI (optional) 
