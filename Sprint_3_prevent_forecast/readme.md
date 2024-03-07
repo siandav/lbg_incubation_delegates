@@ -1,18 +1,17 @@
-## Data Source for this sprint 
-
-You will find the Quay_Banking database you need for this sprint on your LOD machine, on the SQL Server (2022 Express) instance. 
-You can access the database through SQL Server Management Studio (SSMS) by launching SSMS19.1 from the desktop and connect to the server using the default credentials
-
 ### Sprint 3 overview 
 
 During this sprint you are diving into transaction data. You are working at the behest of the Quay Bank Markets and Finance team who want to use data analysis techniques to get a better handle on two operational risks : Fraud and Liquidity.
 In order to add value to the team you are bringing modelling, visualisation, observation, and critical thinking skills together to answer speculative questions. 
-Everything you work on during this sprint has to be documented because colleagues in other teams, when the Bank returns to these priorities later in the year, will need to learn from it, so make sure your notebooks/ workbooks are organised and annotated, your assembled written reports are clear and concise. 
+Everything you work on during this sprint has to be documented because colleagues in other teams will use it when the Bank returns to these priorities another time. For this reason you should make sure your notebooks/ workbooks are well organised and clearly annotated, your assembled written reports are clean and concise. 
 
 - you will start the sprint by taking a closer look at proactive fraud monitoring of bank transactions 
-- then you will jump into time series analysis of the transaction data 
-- you will be asked to deploy your work to the google cloud
+- then you will jump into time series analysis with the bank transactions
+- before the end of the sprint it is hoped you can deploy data and models to the google cloud platform
 
+## Data Source for this sprint 
+
+You will find the Quay_Banking database you need for this sprint on your LOD machine, on the SQL Server (2022 Express) instance. 
+You can access the database through SQL Server Management Studio (SSMS) by launching SSMS19.1 from the desktop and connect to the server using the default credentials
 
 ### Useful links for time series forecasting : 
 -  
