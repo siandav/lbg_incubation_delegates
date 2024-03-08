@@ -9,6 +9,7 @@
 
 You will find the Quay_Banking database you need for this sprint on your LOD machine, on the SQL Server (2022 Express) instance. 
 You can access the database through SQL Server Management Studio (SSMS) by launching SSMS19.1 from the desktop and connect to the server using the default credentials
+To work outside of the LOD the SQL DB backup can be accessed [here](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_2_data_int_sentiment/backup_database_location)
 
 ### Useful links for SQL Server and database management in SSMS
 - https://www.w3schools.com/sql/ 
