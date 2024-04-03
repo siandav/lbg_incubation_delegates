@@ -20,9 +20,19 @@ You will find the Quay_Banking database you need for this sprint on your LOD mac
 - A video for anyone [getting started with Big Query](https://www.youtube.com/watch?v=BH_7_zVk5oM) 
 - Info about selecting the right data transformation services for Big Query as a [checklist](https://towardsdatascience.com/check-list-selecting-the-right-data-transformation-service-for-google-bigquery-bd99307da581) 
 
-#### Useful Links for Data Pipelines with GCP
+#### Useful links for Data Pipelines with GCP
 - Video on [building a pipeline](https://www.youtube.com/watch?v=yVUXvabnMRU)
 - Data pipeline [architecture options](https://cloud.google.com/blog/topics/developers-practitioners/what-data-pipeline-architecture-should-i-use/)
 - Video on [designing a pipeline/ ETL](https://www.youtube.com/watch?v=VtzvF17ysbc)
 
+#### Useful links for SQL
+- [where conditions](https://www.w3schools.com/sql/sql_where.asp)
+- [SQL window functions](https://www.geeksforgeeks.org/window-functions-in-sql/)
+- [Quartiles in SQL](https://www.sisense.com/blog/window-functions-by-example/)
 
+#### Useful links for Reporting Tools 
+- [PowerBI Reports](https://learn.microsoft.com/en-us/power-bi/create-reports/)
+- [Tableau visual design](https://help.tableau.com/current/pro/desktop/en-us/design_and_analyze.htm)
+- [Seaborn charting](https://seaborn.pydata.org/)
+- [Matplotlib plotting](https://matplotlib.org/stable/users/index.html)
+- [Looker documentation](https://cloud.google.com/looker/docs/intro) 
