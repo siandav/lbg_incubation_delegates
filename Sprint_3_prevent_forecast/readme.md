@@ -1,19 +1,18 @@
 ### Sprint 3 overview 
 
 During this sprint you are diving into transaction data. You are working at the behest of the Quay Bank Markets and Finance team who want to use data analysis techniques to get a better handle on two operational risks : Fraud and Liquidity.
-In order to add value to the team you are bringing modelling, visualisation, observation, and critical thinking skills together to answer speculative questions. 
-Everything you work on during this sprint has to be documented because colleagues in other teams will use it when the Bank returns to these priorities another time. For this reason you should make sure your notebooks/ workbooks are well organised and clearly annotated, your assembled written reports are clean and concise. 
+In order to add value to the team you are bringing modelling, visualisation, observation, and critical thinking skills together to answer speculative questions. Everything you work on during this sprint has to be documented because colleagues in other teams will use it when the Bank returns to these priorities another time. For this reason you should make sure your notebooks/ workbooks are well organised and clearly annotated, your assembled written reports are clean and concise. 
 
-- you will start the sprint by taking a closer look at the Quay bank transactions
-- Wednesday of week 1 is planned as a mop-up day; a chance to work again on anything from an earlier sprint.  
-- Before or after the mop up, you will jump into [time series analysis and forecasting](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_3_prevent_forecast/Sprint%203%20-%20Time%20Series%20Analysis%20%26%20Forecasting%20Transactions.pdf) with the bank transactions, extracting your data set using SQL and using the data and time series techniques to answer questions about the transaction trends
+- you will start the sprint by taking a closer look at the Quay Bank transactions, participating in a [hackathon to predict fraudulent transactions](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_3_prevent_forecast/Sprint%203%20-%20Fraud%20Prediction%20Comp.pdf) for Quay Bank. For this you are provided with labelled [training data](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_3_prevent_forecast/sprint3_transactions.csv) and [unlabelled validation data](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_3_prevent_forecast/sprint3_predictions.csv) You can work alone or in pairs to develop your best model and predictions before summarising your model in a [simple template](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_3_prevent_forecast/best_model_summary_template.pptx) 
+- Wednesday of week 1 is planned as a mop-up day; a chance to revisit any item from an earlier sprint - see advice below
+- Next, you will jump into [time series analysis and forecasting](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_3_prevent_forecast/Sprint%203%20-%20Time%20Series%20Analysis%20%26%20Forecasting%20Transactions.pdf) with the same transactions, extracting your own data set using SQL from the database and using time series techniques to answer questions about future trends.
 - before the end of the sprint it is hoped you can [deploy your data set and models to the google cloud platform](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_3_prevent_forecast/Sprint%203%20-%20Forecast%20and%20Fraud%20deploy%20to%20GCP.pdf)
-- At the end of the sprint (Friday, 2pm) Dylan and Yobi will host a retro and sprint post mortem with you 
+- At the end of the sprint (Friday 19 April) Yobi will host a retro and sprint post mortem with you 
 
 ## Data Source for this sprint 
 
 You will find the Quay_Banking database you need for this sprint on your LOD machine, on the SQL Server (2022 Express) instance. 
-You can access the database through SQL Server Management Studio (SSMS) by launching SSMS19.1 from the desktop and connect to the server using the default credentials
+You can access the database through SQL Server Management Studio (SSMS) by launching SSMS19.1 from the desktop and connect to the server using the default credentials. 
 
 ### Useful links for preparing the data:
 - Working with transaction data means theres too many rows and you have to aggregate up - in SQL the clause we use is [GROUP BY](https://www.w3schools.com/mysql/mysql_groupby.asp) and in Python its [groupby](https://medium.com/nerd-for-tech/grouping-and-sampling-time-series-data-2bafe98302ab)
