@@ -12,7 +12,7 @@ In order to add value to the team you are bringing modelling, visualisation, obs
 ## Data Source for this sprint 
 
 You will find the Quay_Banking database you need for this sprint on your LOD machine, on the SQL Server (2022 Express) instance. 
-You can access the database through SQL Server Management Studio (SSMS) by launching SSMS19.1 from the desktop and connect to the server using the default credentials. 
+You can access the database through SQL Server Management Studio (SSMS) by launching SSMS19.1 from the desktop and connect to the server using the default credentials. a backup file of the database can be found on [google drive](https://drive.google.com/drive/folders/1xVUhAFv5OE30vTpLOFouNPmrNS26rzqs) if you want to work locally. 
 
 ### Useful links for preparing the data:
 - Working with transaction data means theres too many rows and you have to aggregate up - in SQL the clause we use is [GROUP BY](https://www.w3schools.com/mysql/mysql_groupby.asp) and in Python its [groupby](https://medium.com/nerd-for-tech/grouping-and-sampling-time-series-data-2bafe98302ab)
