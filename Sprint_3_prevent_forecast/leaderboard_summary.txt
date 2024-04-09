@@ -1,0 +1,20 @@
+## LEADERBOARD Fraud Predictions 
+
+1st place Chris N, Chris M, David C, Hannah M (attempt #5)
+49 False negatives, 0.15% error
+
+2nd place David M (attempt #2) 
+59 False negatives, 0.13% error (the best yet!)
+
+3rd place Dean, Toby, Huw (attempt #3)
+59 False negatives, 0.16% error
+  
+4th place Leanne 
+124 False negatives, 0.27% error 
+
+5th place Raviro 
+156 False negatives, 0.32% error 
+
+6th place Chris G 
+158 False negatives, 0.33% error 
+
