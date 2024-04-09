@@ -25,6 +25,12 @@ Solo : Raviro - props for working alone on this!
 - 0.32% error 
 
 ### 5th place
+Solo : Chris G 
+- 158 False negatives
+- 6 (!) False positives
+- 0.33% error 
+
+### 6th place
 Solo : David M
 - 159 False negatives
 - 7 False positives
