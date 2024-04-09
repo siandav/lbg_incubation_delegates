@@ -1,10 +1,10 @@
 ## LEADERBOARD Fraud Predictions 
 
 ### 1st place
-Group effort : Chris N, Chris M, David C, Hannah M (attempt #3)
-- 84 False negatives
-- 75 False positives
-- 0.32% error
+Group effort : Chris N, Chris M, David C, Hannah M (attempt #4)
+- 63 False negatives
+- 68 False positives
+- 0.27% error (amazing!)
   
 ### 2nd place
 Solo : Leanne- props to you working alone! 
