@@ -7,16 +7,16 @@ Solo : David M (attempt #2)
 - 0.13% error (the best yet!)
 
 ### 2nd place
+Group effort : Dean, Toby, Huw (attempt #3)
+- 59 False negatives
+- 18 False positives
+- 0.16% error
+- 
+### 3rd place
 Group effort : Chris N, Chris M, David C, Hannah M (attempt #4)
 - 63 False negatives
 - 68 False positives
 - 0.27% error 
-
-### 3rd place
-Group effort : Dean, Toby, Huw (attempt #2)
-- 73 False negatives
-- 28 False positives
-- 0.21% error 
   
 ### 4th place
 Solo : Leanne- props to you working alone! 
