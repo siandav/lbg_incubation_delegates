@@ -13,6 +13,10 @@ Group effort : Dean, Toby, Huw
 - 0.31% error 
 
 ### 3rd place
+Solo : Raviro - props for working alone on this!
+- 156 False negatives
+- 6 (!) False positives 
+- 0.32% error 
 
 ### 4th place 
 
