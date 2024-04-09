@@ -2,9 +2,9 @@
 
 ### 1st place 
 Solo : David M (attempt #2) 
-- 60 False negatives
-- 8 False positives
-- 0.14% error (the best yet!)
+- 59 False negatives
+- 7 False positives
+- 0.13% error (the best yet!)
 
 ### 2nd place
 Group effort : Chris N, Chris M, David C, Hannah M (attempt #4)
