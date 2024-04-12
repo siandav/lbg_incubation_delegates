@@ -7,7 +7,9 @@ The Luxury Loan Portfolio is run by a distinct team within Quay Bank and though 
 - challenge : [can we give wider access to this portfolio for analysis without compromising data privacy?](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_4_bigquery_growth/Sprint%204%20-%20Growth%20and%20Big%20Query.pdf) 
 - opportunity : [can we leverage our success in luxury loans to help our other lending portfolio grow?](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_4_bigquery_growth/Sprint_4_GrowthandOpportunities.pdf)
 
-Keep in mind that these assignments are concerned with information sharing, so you have to consider data governance and regulations around personally identifiable information throughout. Also, consider that you are going to share your work with other colleagues eventually so keep your notebooks, queries, and documentation tidy, organised  within your personal portfolio.  During this sprint you will be given an opportunity to practice sharing this portfolio with one of your peers in a role play. 
+Keep in mind that these assignments are concerned with information sharing, so you have to consider data governance and regulations around personally identifiable information throughout. Also, consider that you are going to share your work with other colleagues eventually so keep your notebooks, queries, and documentation tidy, organised  within your personal portfolio.  
+[
+During this sprint you will be given an opportunity to practice sharing this portfolio with one of your peers in a [paired technical interview scenario](https://github.com/siandav/lbg_incubation_delegates/blob/main/Sprint_4_bigquery_growth/Paired%20Technical%20Interview%20Scenario.pdf)
 
 Note : Your final Sprint will finish at an in-person session with LBG on Friday May 3rd. 
 
